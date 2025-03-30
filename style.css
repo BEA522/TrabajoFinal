@@ -1,4 +1,11 @@
 
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+p {
+    font-family: "DM Sans", sans-serif;
+}
+
 
 .acoordion-button:not(.collapsed) {
     background-color: rosybrown;
