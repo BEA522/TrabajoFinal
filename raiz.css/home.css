@@ -12,11 +12,12 @@ body {
     margin: 20px;  
 }  
 h1, h2 {  
-    color: #4CAF50;  
+    color:brown;  
 }  
 p {  
     margin-bottom: 10px;  
 } 
+
 
 footer {
     background-color: #ccc;

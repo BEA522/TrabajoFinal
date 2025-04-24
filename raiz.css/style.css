@@ -14,11 +14,12 @@ body {
     margin: 20px;  
 }  
 h1, h2 {  
-    color: #4CAF50;  
+    color:brown;  
 }  
 p {  
     margin-bottom: 10px;  
 } 
+
 
 footer {
     background-color: #ccc;
@@ -32,6 +33,12 @@ footer {
 .holder {
     max-width: 960px;
     margin: 0 auto;
+}
+
+.rounded-logo {
+    border-radius: 50%;
+    max-width: 60%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 }
 
 /* galeria */
